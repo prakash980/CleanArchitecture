@@ -1,7 +1,40 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "F:\\GitHubRepositories\\CleanArchitecture\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4066A1E0-70B7-4902-A94B-6ED5E98821CD}|CleanArchitecture\\CleanArchitecture.API.csproj|f:\\githubrepositories\\cleanarchitecture\\cleanarchitecture\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4066A1E0-70B7-4902-A94B-6ED5E98821CD}|CleanArchitecture\\CleanArchitecture.API.csproj|solutionrelative:cleanarchitecture\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4066A1E0-70B7-4902-A94B-6ED5E98821CD}|CleanArchitecture\\CleanArchitecture.API.csproj|f:\\githubrepositories\\cleanarchitecture\\cleanarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4066A1E0-70B7-4902-A94B-6ED5E98821CD}|CleanArchitecture\\CleanArchitecture.API.csproj|solutionrelative:cleanarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F345B85-4DA8-4F75-AE70-E5700B4B3282}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|f:\\githubrepositories\\cleanarchitecture\\cleanarchitecture.application\\service\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F345B85-4DA8-4F75-AE70-E5700B4B3282}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\service\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14471F2C-DAFE-4427-86F3-1373B48DF857}|CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|f:\\githubrepositories\\cleanarchitecture\\cleanarchitecture.infrastructure\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14471F2C-DAFE-4427-86F3-1373B48DF857}|CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|solutionrelative:cleanarchitecture.infrastructure\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F345B85-4DA8-4F75-AE70-E5700B4B3282}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|f:\\githubrepositories\\cleanarchitecture\\cleanarchitecture.application\\iservice\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F345B85-4DA8-4F75-AE70-E5700B4B3282}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\iservice\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F345B85-4DA8-4F75-AE70-E5700B4B3282}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|f:\\githubrepositories\\cleanarchitecture\\cleanarchitecture.application\\irepository\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F345B85-4DA8-4F75-AE70-E5700B4B3282}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\irepository\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F0EFC9-73F5-45B3-A70A-BB8D420575E2}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|f:\\githubrepositories\\cleanarchitecture\\cleanarchitecture.domain\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F0EFC9-73F5-45B3-A70A-BB8D420575E2}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F345B85-4DA8-4F75-AE70-E5700B4B3282}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|f:\\githubrepositories\\cleanarchitecture\\cleanarchitecture.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F345B85-4DA8-4F75-AE70-E5700B4B3282}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 47,
           "Children": [
             {
               "$type": "Bookmark",
@@ -170,6 +203,114 @@
             {
               "$type": "Bookmark",
               "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\GitHubRepositories\\CleanArchitecture\\CleanArchitecture\\Program.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture\\Program.cs",
+              "ToolTip": "F:\\GitHubRepositories\\CleanArchitecture\\CleanArchitecture\\Program.cs",
+              "RelativeToolTip": "CleanArchitecture\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:45:40.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "F:\\GitHubRepositories\\CleanArchitecture\\CleanArchitecture.Application\\Service\\MovieService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Service\\MovieService.cs",
+              "ToolTip": "F:\\GitHubRepositories\\CleanArchitecture\\CleanArchitecture.Application\\Service\\MovieService.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Service\\MovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:31:46.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "F:\\GitHubRepositories\\CleanArchitecture\\CleanArchitecture.Application\\IService\\IMovieService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\IService\\IMovieService.cs",
+              "ToolTip": "F:\\GitHubRepositories\\CleanArchitecture\\CleanArchitecture.Application\\IService\\IMovieService.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\IService\\IMovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:31:21.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "F:\\GitHubRepositories\\CleanArchitecture\\CleanArchitecture.Application\\IRepository\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\IRepository\\IMovieRepository.cs",
+              "ToolTip": "F:\\GitHubRepositories\\CleanArchitecture\\CleanArchitecture.Application\\IRepository\\IMovieRepository.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\IRepository\\IMovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:31:09.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "F:\\GitHubRepositories\\CleanArchitecture\\CleanArchitecture.Infrastructure\\Repository\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Infrastructure\\Repository\\MovieRepository.cs",
+              "ToolTip": "F:\\GitHubRepositories\\CleanArchitecture\\CleanArchitecture.Infrastructure\\Repository\\MovieRepository.cs",
+              "RelativeToolTip": "CleanArchitecture.Infrastructure\\Repository\\MovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:30:45.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "F:\\GitHubRepositories\\CleanArchitecture\\CleanArchitecture.Domain\\Movie.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Movie.cs",
+              "ToolTip": "F:\\GitHubRepositories\\CleanArchitecture\\CleanArchitecture.Domain\\Movie.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:30:20.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "F:\\GitHubRepositories\\CleanArchitecture\\CleanArchitecture\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture\\Controllers\\MovieController.cs",
+              "ToolTip": "F:\\GitHubRepositories\\CleanArchitecture\\CleanArchitecture\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "CleanArchitecture\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:28:33.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "F:\\GitHubRepositories\\CleanArchitecture\\CleanArchitecture.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Class1.cs",
+              "ToolTip": "F:\\GitHubRepositories\\CleanArchitecture\\CleanArchitecture.Application\\Class1.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:26:32.583Z",
+              "EditorCaption": ""
             }
           ]
         }

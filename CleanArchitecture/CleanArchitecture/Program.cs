@@ -1,4 +1,9 @@
 
+using CleanArchitecture.Application.IRepository;
+using CleanArchitecture.Application.IService;
+using CleanArchitecture.Application.Service;
+using CleanArchitecture.Infrastructure.Repository;
+
 namespace CleanArchitecture
 {
     public class Program
@@ -13,6 +18,9 @@ namespace CleanArchitecture
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+
+            builder.Services.AddScoped<IMovieRepository, MovieRepository>();
+            builder.Services.AddScoped<IMovieService, MovieService>();
 
             var app = builder.Build();
 
